@@ -1,0 +1,4 @@
+A fazenda possui:
+Gados: 1
+Vacas: 5
+Porcos: 2
